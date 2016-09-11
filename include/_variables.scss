@@ -1,0 +1,62 @@
+//Common
+$font-size:14px;
+$small-font-size:12px;
+$large-font-size:18px;
+
+//Colors
+$white-color:#fff;
+$green-color:#3c3;
+$blue-color:#00e;
+$red-color:#e00;
+$yellow-color:#ed0;
+$grey-color:#ccc;
+$light-grey-color:#eee;
+
+//Line Heights
+$line-height: 1.42857143;
+$small-line-height: 1.3333333;
+$large-line-height: 1.5;
+
+//Button
+$btn-radius: 0.2em;
+$btn-txt-default: #333;
+
+//Resolutions (Widths)
+$mobile-small:240px;
+$mobile-large:320px;
+$tablet-small:480px;
+$tablet-large:768px;
+$screen-small:1024px;
+$screen-large:1280px;
+
+//Grid Length
+$grid-column-num:12;
+
+//Grid names
+$col-medium:col-m;
+$col-small:col-s;
+$col-large:col-l;
+$col-extrasmall:col-x;
+$grid-breakpoints: (
+  // Extra small screen / phone
+  xs: 0,
+  // Small screen / phone
+  sm: 544px,
+  // Medium screen / tablet
+  md: 768px,
+  // Large screen / desktop
+  lg: 992px,
+  // Extra large screen / wide desktop
+  xl: 1200px
+);
+
+$focus-border-color:#87CEEB;
+$focus-shadow-color:rgba(102, 255, 255, 0.75);
+$input-color:#555;
+$input-radius:0.2em;
+$input-hover-delay: border-color ease-in-out .15s, box-shadow ease-in-out .3s;
+
+//Toggle
+$toggle-height: 30px;
+$toggle-width: 50px;
+$toggle-radius: 1000px;
